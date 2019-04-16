@@ -1,6 +1,3 @@
-/*
- * C program to find the biggest of three numbers
- */
 #include <stdio.h>
  
 void big()
